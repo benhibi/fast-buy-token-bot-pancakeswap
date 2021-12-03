@@ -13,7 +13,10 @@ Telegram: +84969361367
 
 First you need install Python 3.9 or latest.
 
--pip3 install web3
+Open CMD and Run: pip3 install web3
 
 # RUN
 in direct folder run CMD
+Run: python buy.py
+
+Good luck to you!
